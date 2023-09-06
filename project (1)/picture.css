@@ -1,0 +1,154 @@
+.tin1{
+    width: 100%;
+  padding: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.anh2 {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+  background-image: url('https://ik.imagekit.io/tvlk/blog/2018/03/dac-san-hue-2-bun-bo-hue.jpg?tr=dpr-2,w-675');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.anh3 {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+  background-image: url('https://ik.imagekit.io/tvlk/blog/2018/03/dac-san-hue-3-keo-me-xung.jpg?tr=dpr-2,w-675');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hang1{
+  border: 20px;
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://anvatdanang.vn/wp-content/uploads/2020/12/tra-sua-khoai-mon-tai-da-nang-600x375.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-right: 4%;
+  margin-left: 1%;
+  margin-top: 1%;
+}
+
+.hang2{
+  border: 10px;
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://anvatdanang.vn/wp-content/uploads/2021/06/tra-sua-macchitao.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-right: 4%;
+  margin-top: 1%;
+
+}
+.hang3{
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://anvatdanang.vn/wp-content/uploads/2021/06/tra-sua-socola-600x577.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-top: 1%;
+}
+.hang4{
+  border: 20px;
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://anvatdanang.vn/wp-content/uploads/2020/12/tra-sua-thai-xanh-600x375.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-right: 4%;
+  margin-left: 1%;
+  margin-top: 1%;
+}
+.hang5{
+  border: 10px;
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://anvatdanang.vn/wp-content/uploads/2020/12/tra-sua-truyen-thong.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-right: 4%;
+  margin-top: 1%;
+}
+.hang6{
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://anvatdanang.vn/wp-content/uploads/2020/12/tra-sua-tran-chau-den.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-top: 1%;
+}
+.hang7{
+  border: 20px;
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://cdn.tgdd.vn/Files/2021/08/13/1374929/tu-lam-tra-sua-dau-do-don-gian-tai-nha-ngon-hon-ngoai-quan-202201192315076036.jpeg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-right: 4%;
+  margin-left: 1%;
+  margin-top: 1%;
+}
+.hang8{
+  border: 10px;
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://anchoivungtau.vn/wp-content/uploads/2021/11/255753571_401731704749855_4337083471967831037_n.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-right: 4%;
+  margin-top: 1%;
+}
+.hang9{
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://vntestbank.com/wp-content/uploads/2022/12/1671775392_344_Ba-trum-topping-tra-sua-DOC-DAO-tai-Sai-Gon.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-top: 1%;
+}
+.hang10{
+  border: 20px;
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://thuthuatnhanh.com/wp-content/uploads/2020/12/hinh-anh-tra-sua-dep-tuyet.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-right: 4%;
+  margin-left: 1%;
+  margin-top: 1%;
+}
+.hang11{
+  border: 10px;
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://thuthuatnhanh.com/wp-content/uploads/2020/12/hinh-anh-tra-sua-dep-tuyet.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-right: 4%;
+  margin-top: 1%;
+}
+.hang12{
+  width: 30%;
+  height: 400px;
+  float: left;
+  background-image: url(https://thuthuatnhanh.com/wp-content/uploads/2020/12/hinh-anh-tra-sua-dep-tuyet.jpg);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  margin-top: 1%;
+}
+

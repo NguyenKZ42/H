@@ -1,0 +1,78 @@
+nav{
+    background-image: linear-gradient(45deg,rgb(212, 208, 208), rgb(61, 61, 54));
+    border-radius: 0px 40px 40px 0px
+  }
+  nav ul{
+      display: flex;
+  }
+  nav ul li{
+    font-weight: bold
+  }
+  nav ul li{
+    
+      list-style: none;
+      border-left: 2px solid gray;
+  }
+  nav ul li a{
+    
+      display: block;
+      padding: 0 25px;
+      line-height: 50px;
+      color: #f1f2f3;
+      text-decoration: none;
+  }
+  nav li ul{
+    border-radius: 20px 20px 20px 20px;
+      display: none;
+      min-width: 350px;
+      position: absolute;
+      background-image: linear-gradient(45deg,rgb(238, 238, 132),black 80%);
+  }
+
+  nav li ul b {
+    border-radius: 20px 20px 20px 20px;
+      display: none;
+      min-width: 350px;
+      position: absolute;
+      background-image: linear-gradient(45deg,rgb(35, 35, 33),black 80%);
+  }
+  nav li:hover  ul{
+      display: block;
+  
+  }
+  
+              .form-row{
+                  padding: 8px 0;
+                  display: flex;
+                  width: 200px;
+                  float: right;
+              }
+              .form-label{
+                  min-width: 60px ;
+              }
+              .form-input{
+                  flex: 1;
+                  
+              }
+              a{text-decoration: none}
+.op1:hover{
+background-image: url(https://cdn.tgdd.vn/2021/04/CookRecipe/GalleryStep/thanh-pham-1340.jpg);
+background-size: cover;
+
+}
+.op2:hover{
+    background-image: linear-gradient(rgb(255, 220, 220),red);
+    }
+    .op3:hover{
+        background-image: linear-gradient(black,rgb(35, 233, 45));
+        }
+        .op4:hover{
+            background-image: linear-gradient(rgb(161, 61, 232),red);
+            }
+.switch{
+                background-image: url(https://bkafoods.com/wp-content/uploads/2021/04/tra-sua-tran-chau.jpg);
+                background-size: cover;
+                width: fit-content;
+                
+              }
+              
